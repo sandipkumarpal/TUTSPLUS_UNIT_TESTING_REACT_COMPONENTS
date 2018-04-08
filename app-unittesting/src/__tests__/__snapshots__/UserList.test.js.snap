@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<User /> render correctly 1`] = `
+<ul
+  className="list-group"
+>
+  <li
+    className="list-group-item"
+  >
+    Sandip
+  </li>
+  <li
+    className="list-group-item"
+  >
+    Rayel
+  </li>
+  <li
+    className="list-group-item"
+  >
+    Gopal
+  </li>
+  <li
+    className="list-group-item"
+  >
+    Akash
+  </li>
+  <li
+    className="list-group-item"
+  >
+    Monoj
+  </li>
+</ul>
+`;
